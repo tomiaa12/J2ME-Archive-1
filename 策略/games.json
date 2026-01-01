@@ -1,0 +1,642 @@
+[
+  {
+    "name": "12星座斗地主II-同城争霸.jar",
+    "logo": "./javaGameLogo/12星座斗地主II-同城争霸.png"
+  },
+  {
+    "name": "3D沙滩排球.jar",
+    "logo": "./javaGameLogo/3D沙滩排球.png"
+  },
+  {
+    "name": "3D街头足球.jar",
+    "logo": "./javaGameLogo/3D街头足球.png"
+  },
+  {
+    "name": "C2S－三国志.jar",
+    "logo": null
+  },
+  {
+    "name": "ChaoJiRZG_4.jar",
+    "logo": "./javaGameLogo/ChaoJiRZG_4.png"
+  },
+  {
+    "name": "DeathRace.jar",
+    "logo": "./javaGameLogo/DeathRace.png"
+  },
+  {
+    "name": "jhqy.jar",
+    "logo": "./javaGameLogo/jhqy.png"
+  },
+  {
+    "name": "KBJG.jar",
+    "logo": "./javaGameLogo/KBJG.png"
+  },
+  {
+    "name": "playx正版_疯狂马戏团.jar",
+    "logo": null
+  },
+  {
+    "name": "QuanMianZhan.jar",
+    "logo": "./javaGameLogo/QuanMianZhan.png"
+  },
+  {
+    "name": "Sango_RedCliff.jar",
+    "logo": "./javaGameLogo/Sango_RedCliff.png"
+  },
+  {
+    "name": "SWSG.jar",
+    "logo": "./javaGameLogo/SWSG.png"
+  },
+  {
+    "name": "TeamMU.jar",
+    "logo": "./javaGameLogo/TeamMU.png"
+  },
+  {
+    "name": "Townsmen 6.jar",
+    "logo": "./javaGameLogo/Townsmen 6.png"
+  },
+  {
+    "name": "XBSGL.jar",
+    "logo": "./javaGameLogo/XBSGL.png"
+  },
+  {
+    "name": "七侠五义.jar",
+    "logo": "./javaGameLogo/七侠五义.png"
+  },
+  {
+    "name": "三国の志-无情枪.jar",
+    "logo": "./javaGameLogo/三国の志-无情枪.png"
+  },
+  {
+    "name": "三国奇侠之赵云传.jar",
+    "logo": "./javaGameLogo/三国奇侠之赵云传.png"
+  },
+  {
+    "name": "三国群英传2-烽火再临.jar",
+    "logo": "./javaGameLogo/三国群英传2-烽火再临.png"
+  },
+  {
+    "name": "三国霸王猛将赵子龙.jar",
+    "logo": "./javaGameLogo/三国霸王猛将赵子龙.png"
+  },
+  {
+    "name": "九天玄剑录.jar",
+    "logo": "./javaGameLogo/九天玄剑录.png"
+  },
+  {
+    "name": "九天缥缈录-龙腾苍穹(1).jar",
+    "logo": "./javaGameLogo/九天缥缈录-龙腾苍穹(1).png"
+  },
+  {
+    "name": "乱世奇缘.jar",
+    "logo": "./javaGameLogo/乱世奇缘.png"
+  },
+  {
+    "name": "乱舞格斗-女拳男腿.jar",
+    "logo": "./javaGameLogo/乱舞格斗-女拳男腿.png"
+  },
+  {
+    "name": "云之彼岸.jar",
+    "logo": "./javaGameLogo/云之彼岸.png"
+  },
+  {
+    "name": "云霄飞车汉化版.jar",
+    "logo": "./javaGameLogo/云霄飞车汉化版.png"
+  },
+  {
+    "name": "仙侣三国.jar",
+    "logo": "./javaGameLogo/仙侣三国.png"
+  },
+  {
+    "name": "仙剑奇侠传-斗地主（正版）.jar",
+    "logo": "./javaGameLogo/仙剑奇侠传-斗地主（正版）.png"
+  },
+  {
+    "name": "仙剑奇侠传.jar",
+    "logo": "./javaGameLogo/仙剑奇侠传.png"
+  },
+  {
+    "name": "仙缘-梦幻诛仙.jar",
+    "logo": "./javaGameLogo/仙缘-梦幻诛仙.png"
+  },
+  {
+    "name": "仙逆-诛仙弑神.jar",
+    "logo": "./javaGameLogo/仙逆-诛仙弑神.png"
+  },
+  {
+    "name": "众神殿之王子归来.jar",
+    "logo": null
+  },
+  {
+    "name": "侏罗纪公园巨兽归来.jar",
+    "logo": "./javaGameLogo/侏罗纪公园巨兽归来.png"
+  },
+  {
+    "name": "僵尸玛丽大冒险.jar",
+    "logo": null
+  },
+  {
+    "name": "剑缘.jar",
+    "logo": "./javaGameLogo/剑缘.png"
+  },
+  {
+    "name": "动感网球2010-热运版.jar",
+    "logo": "./javaGameLogo/动感网球2010-热运版.png"
+  },
+  {
+    "name": "十全九美-刘桦侠义传.jar",
+    "logo": "./javaGameLogo/十全九美-刘桦侠义传.png"
+  },
+  {
+    "name": "千年侠义道2.jar",
+    "logo": "./javaGameLogo/千年侠义道2.png"
+  },
+  {
+    "name": "反恐暗夜女特工.jar",
+    "logo": "./javaGameLogo/反恐暗夜女特工.png"
+  },
+  {
+    "name": "口袋神兽.jar",
+    "logo": "./javaGameLogo/口袋神兽.png"
+  },
+  {
+    "name": "口袋神兽大闹天宫.jar",
+    "logo": "./javaGameLogo/口袋神兽大闹天宫.png"
+  },
+  {
+    "name": "名剑风流-剑舞江南.jar",
+    "logo": "./javaGameLogo/名剑风流-剑舞江南.png"
+  },
+  {
+    "name": "命令与征服4：泰伯利亚黄昏.jar",
+    "logo": "./javaGameLogo/命令与征服4：泰伯利亚黄昏.png"
+  },
+  {
+    "name": "回转贝贝龙2.jar",
+    "logo": "./javaGameLogo/回转贝贝龙2.png"
+  },
+  {
+    "name": "圣剑!魔晶狂热者.jar",
+    "logo": "./javaGameLogo/圣剑!魔晶狂热者.png"
+  },
+  {
+    "name": "圣剑神曲.jar",
+    "logo": "./javaGameLogo/圣剑神曲.png"
+  },
+  {
+    "name": "地下城与黄金战士(格斗版).jar",
+    "logo": "./javaGameLogo/地下城与黄金战士(格斗版).png"
+  },
+  {
+    "name": "地下城之剑魂觉醒.jar",
+    "logo": "./javaGameLogo/地下城之剑魂觉醒.png"
+  },
+  {
+    "name": "多情仙子之魔武双修.jar",
+    "logo": "./javaGameLogo/多情仙子之魔武双修.png"
+  },
+  {
+    "name": "大宋迷情-神魔乱舞.jar",
+    "logo": "./javaGameLogo/大宋迷情-神魔乱舞.png"
+  },
+  {
+    "name": "大汉传奇之天山逐鹿.jar",
+    "logo": "./javaGameLogo/大汉传奇之天山逐鹿.png"
+  },
+  {
+    "name": "大脑行动之横扫千军(正版)_玉品.jar",
+    "logo": "./javaGameLogo/大脑行动之横扫千军(正版)_玉品.png"
+  },
+  {
+    "name": "大话水浒-林冲传.jar",
+    "logo": "./javaGameLogo/大话水浒-林冲传.png"
+  },
+  {
+    "name": "天使之恋2命运乐章.jar",
+    "logo": "./javaGameLogo/天使之恋2命运乐章.png"
+  },
+  {
+    "name": "女神传说-宝软网baoruan.com免费分享.jar",
+    "logo": "./javaGameLogo/女神传说-宝软网baoruan.com免费分享.png"
+  },
+  {
+    "name": "宇宙彩蛋.jar",
+    "logo": "./javaGameLogo/宇宙彩蛋.png"
+  },
+  {
+    "name": "宝宝 -炮炮堂.jar",
+    "logo": "./javaGameLogo/宝宝 -炮炮堂.png"
+  },
+  {
+    "name": "宝软网baoruan.com免费分享.jar",
+    "logo": "./javaGameLogo/宝软网baoruan.com免费分享.png"
+  },
+  {
+    "name": "宠物王国4-白金.jar",
+    "logo": "./javaGameLogo/宠物王国4-白金.png"
+  },
+  {
+    "name": "宠物王国5-彩虹.jar",
+    "logo": "./javaGameLogo/宠物王国5-彩虹.png"
+  },
+  {
+    "name": "家园5(HandyGames正版)TM.jar",
+    "logo": "./javaGameLogo/家园5(HandyGames正版)TM.png"
+  },
+  {
+    "name": "封神榜-紫虚天玄录.jar",
+    "logo": "./javaGameLogo/封神榜-紫虚天玄录.png"
+  },
+  {
+    "name": "封神榜之一代妖姬.jar",
+    "logo": "./javaGameLogo/封神榜之一代妖姬.png"
+  },
+  {
+    "name": "封神猛将-晒化红颜瑶姬.jar",
+    "logo": "./javaGameLogo/封神猛将-晒化红颜瑶姬.png"
+  },
+  {
+    "name": "封魔战纪2圣兽罗曼史.jar",
+    "logo": "./javaGameLogo/封魔战纪2圣兽罗曼史.png"
+  },
+  {
+    "name": "小鬼消防员.jar",
+    "logo": "./javaGameLogo/小鬼消防员.png"
+  },
+  {
+    "name": "少年名捕.jar",
+    "logo": "./javaGameLogo/少年名捕.png"
+  },
+  {
+    "name": "少年张三丰.jar",
+    "logo": "./javaGameLogo/少年张三丰.png"
+  },
+  {
+    "name": "帝国时代3-亚洲王朝.jar",
+    "logo": "./javaGameLogo/帝国时代3-亚洲王朝.png"
+  },
+  {
+    "name": "帝都保卫战.jar",
+    "logo": "./javaGameLogo/帝都保卫战.png"
+  },
+  {
+    "name": "年少风流周瑜传.jar",
+    "logo": null
+  },
+  {
+    "name": "幻世吟游曲.jar",
+    "logo": "./javaGameLogo/幻世吟游曲.png"
+  },
+  {
+    "name": "幻兽吟游录-风之章.jar",
+    "logo": "./javaGameLogo/幻兽吟游录-风之章.png"
+  },
+  {
+    "name": "异世界豪侠幻魔传.jar",
+    "logo": "./javaGameLogo/异世界豪侠幻魔传.png"
+  },
+  {
+    "name": "快乐家族.jar",
+    "logo": "./javaGameLogo/快乐家族.png"
+  },
+  {
+    "name": "怪兽仙境.jar",
+    "logo": "./javaGameLogo/怪兽仙境.png"
+  },
+  {
+    "name": "怪兽仙境3.jar",
+    "logo": "./javaGameLogo/怪兽仙境3.png"
+  },
+  {
+    "name": "怪兽猎人.jar",
+    "logo": "./javaGameLogo/怪兽猎人.png"
+  },
+  {
+    "name": "戏说聊斋之鬼吹灯.jar",
+    "logo": "./javaGameLogo/戏说聊斋之鬼吹灯.png"
+  },
+  {
+    "name": "我和僵尸有个约会.jar",
+    "logo": "./javaGameLogo/我和僵尸有个约会.png"
+  },
+  {
+    "name": "我跳我跳我跳跳跳.jar",
+    "logo": "./javaGameLogo/我跳我跳我跳跳跳.png"
+  },
+  {
+    "name": "战争艺术2全球联盟汉化版.jar",
+    "logo": "./javaGameLogo/战争艺术2全球联盟汉化版.png"
+  },
+  {
+    "name": "战神-特洛伊无双.jar",
+    "logo": "./javaGameLogo/战神-特洛伊无双.png"
+  },
+  {
+    "name": "打砖块革命2汉化版.jar",
+    "logo": "./javaGameLogo/打砖块革命2汉化版.png"
+  },
+  {
+    "name": "斯芬克斯-雷霆行动.jar",
+    "logo": "./javaGameLogo/斯芬克斯-雷霆行动.png"
+  },
+  {
+    "name": "新唐伯虎点秋香2010精装版.jar",
+    "logo": "./javaGameLogo/新唐伯虎点秋香2010精装版.png"
+  },
+  {
+    "name": "新天子传奇.jar",
+    "logo": "./javaGameLogo/新天子传奇.png"
+  },
+  {
+    "name": "新铁血战士III毁灭者(电影正版).jar",
+    "logo": "./javaGameLogo/新铁血战士III毁灭者(电影正版).png"
+  },
+  {
+    "name": "星月历战记-人魔传说.jar",
+    "logo": "./javaGameLogo/星月历战记-人魔传说.png"
+  },
+  {
+    "name": "星际骑士汉化版.jar",
+    "logo": "./javaGameLogo/星际骑士汉化版.png"
+  },
+  {
+    "name": "暗黑传说3-剑圣的复仇.jar",
+    "logo": "./javaGameLogo/暗黑传说3-剑圣的复仇.png"
+  },
+  {
+    "name": "暗黑启示录-亡灵的崛起.jar",
+    "logo": "./javaGameLogo/暗黑启示录-亡灵的崛起.png"
+  },
+  {
+    "name": "暗黑地下城.jar",
+    "logo": "./javaGameLogo/暗黑地下城.png"
+  },
+  {
+    "name": "机动战士-钢铁之翼.jar",
+    "logo": "./javaGameLogo/机动战士-钢铁之翼.png"
+  },
+  {
+    "name": "机器人大战.宝软网baoruan.com免费分享.jar",
+    "logo": "./javaGameLogo/机器人大战.宝软网baoruan.com免费分享.png"
+  },
+  {
+    "name": "机械狂潮.jar",
+    "logo": "./javaGameLogo/机械狂潮.png"
+  },
+  {
+    "name": "机甲风暴.jar",
+    "logo": null
+  },
+  {
+    "name": "杀戮机器-纳粹僵尸.jar",
+    "logo": "./javaGameLogo/杀戮机器-纳粹僵尸.png"
+  },
+  {
+    "name": "梁山草莽-武家兄弟.jar",
+    "logo": "./javaGameLogo/梁山草莽-武家兄弟.png"
+  },
+  {
+    "name": "梦仙缘.jar",
+    "logo": "./javaGameLogo/梦仙缘.png"
+  },
+  {
+    "name": "梦回三国2蜀天劫.jar",
+    "logo": "./javaGameLogo/梦回三国2蜀天劫.png"
+  },
+  {
+    "name": "梦幻机甲.jar",
+    "logo": "./javaGameLogo/梦幻机甲.png"
+  },
+  {
+    "name": "梦幻江湖.jar",
+    "logo": "./javaGameLogo/梦幻江湖.png"
+  },
+  {
+    "name": "欢乐西游华容道.jar",
+    "logo": "./javaGameLogo/欢乐西游华容道.png"
+  },
+  {
+    "name": "武装缆车(豪华版).jar",
+    "logo": "./javaGameLogo/武装缆车(豪华版).png"
+  },
+  {
+    "name": "死亡之鲨汉化版.jar",
+    "logo": "./javaGameLogo/死亡之鲨汉化版.png"
+  },
+  {
+    "name": "水浒2-华娱版.jar",
+    "logo": "./javaGameLogo/水浒2-华娱版.png"
+  },
+  {
+    "name": "永恒传说之邪恶双子.jar",
+    "logo": "./javaGameLogo/永恒传说之邪恶双子.png"
+  },
+  {
+    "name": "流星蝴蝶幻剑录3.jar",
+    "logo": "./javaGameLogo/流星蝴蝶幻剑录3.png"
+  },
+  {
+    "name": "流氓英雄传.jar",
+    "logo": "./javaGameLogo/流氓英雄传.png"
+  },
+  {
+    "name": "深入敌后.jar",
+    "logo": "./javaGameLogo/深入敌后.png"
+  },
+  {
+    "name": "游仙梦之碧水龙吟.jar",
+    "logo": "./javaGameLogo/游仙梦之碧水龙吟.png"
+  },
+  {
+    "name": "满江红2铁骑红颜.jar",
+    "logo": "./javaGameLogo/满江红2铁骑红颜.png"
+  },
+  {
+    "name": "满江红之斗破苍宇.jar",
+    "logo": "./javaGameLogo/满江红之斗破苍宇.png"
+  },
+  {
+    "name": "火焰-纹章之谜.jar",
+    "logo": "./javaGameLogo/火焰-纹章之谜.png"
+  },
+  {
+    "name": "火焰外传烈炎佣兵.jar",
+    "logo": "./javaGameLogo/火焰外传烈炎佣兵.png"
+  },
+  {
+    "name": "爱卡-创誓记（正版）.jar",
+    "logo": "./javaGameLogo/爱卡-创誓记（正版）.png"
+  },
+  {
+    "name": "特种部队眼镜蛇崛起.jar",
+    "logo": "./javaGameLogo/特种部队眼镜蛇崛起.png"
+  },
+  {
+    "name": "狙击风暴（合金版）.jar",
+    "logo": "./javaGameLogo/狙击风暴（合金版）.png"
+  },
+  {
+    "name": "玄天之剑-绝世传奇.jar",
+    "logo": "./javaGameLogo/玄天之剑-绝世传奇.png"
+  },
+  {
+    "name": "疯狂出租车.jar",
+    "logo": "./javaGameLogo/疯狂出租车.png"
+  },
+  {
+    "name": "疯狂机器人（巧克力）.jar",
+    "logo": "./javaGameLogo/疯狂机器人（巧克力）.png"
+  },
+  {
+    "name": "疯狂的兔子.jar",
+    "logo": "./javaGameLogo/疯狂的兔子.png"
+  },
+  {
+    "name": "盗梦时空.jar",
+    "logo": "./javaGameLogo/盗梦时空.png"
+  },
+  {
+    "name": "盟军敢死队（正版）.jar",
+    "logo": "./javaGameLogo/盟军敢死队（正版）.png"
+  },
+  {
+    "name": "真天龙无双-战龙在野.jar",
+    "logo": "./javaGameLogo/真天龙无双-战龙在野.png"
+  },
+  {
+    "name": "真武侠-剑舞九天.jar",
+    "logo": null
+  },
+  {
+    "name": "神雕传奇.jar",
+    "logo": "./javaGameLogo/神雕传奇.png"
+  },
+  {
+    "name": "精灵仙境.jar",
+    "logo": "./javaGameLogo/精灵仙境.png"
+  },
+  {
+    "name": "绿野仙踪.jar",
+    "logo": "./javaGameLogo/绿野仙踪.png"
+  },
+  {
+    "name": "网游改编之纵横天下.jar",
+    "logo": "./javaGameLogo/网游改编之纵横天下.png"
+  },
+  {
+    "name": "美食天地-魔幻厨神.jar",
+    "logo": "./javaGameLogo/美食天地-魔幻厨神.png"
+  },
+  {
+    "name": "自古英雄出少林.jar",
+    "logo": "./javaGameLogo/自古英雄出少林.png"
+  },
+  {
+    "name": "苍神诀-傲剑龙吟.jar",
+    "logo": "./javaGameLogo/苍神诀-傲剑龙吟.png"
+  },
+  {
+    "name": "荣耀之剑.jar",
+    "logo": "./javaGameLogo/荣耀之剑.png"
+  },
+  {
+    "name": "蛋糕梦工厂.jar",
+    "logo": "./javaGameLogo/蛋糕梦工厂.png"
+  },
+  {
+    "name": "蜀山(盛大正版).jar",
+    "logo": "./javaGameLogo/蜀山(盛大正版).png"
+  },
+  {
+    "name": "诛仙传奇.jar",
+    "logo": "./javaGameLogo/诛仙传奇.png"
+  },
+  {
+    "name": "轮回-神魔劫.jar",
+    "logo": "./javaGameLogo/轮回-神魔劫.png"
+  },
+  {
+    "name": "轮回劫 霸刀天下.jar",
+    "logo": "./javaGameLogo/轮回劫 霸刀天下.png"
+  },
+  {
+    "name": "远古帝国2拓展版.jar",
+    "logo": "./javaGameLogo/远古帝国2拓展版.png"
+  },
+  {
+    "name": "逍遥奇侠传-轮回之恋.jar",
+    "logo": "./javaGameLogo/逍遥奇侠传-轮回之恋.png"
+  },
+  {
+    "name": "重装机兵-红狼传说.jar",
+    "logo": "./javaGameLogo/重装机兵-红狼传说.png"
+  },
+  {
+    "name": "重装武器之深入敌后.jar",
+    "logo": "./javaGameLogo/重装武器之深入敌后.png"
+  },
+  {
+    "name": "铠甲勇士-光影传奇.jar",
+    "logo": "./javaGameLogo/铠甲勇士-光影传奇.png"
+  },
+  {
+    "name": "隋唐Q传之混世魔王.jar",
+    "logo": null
+  },
+  {
+    "name": "雇佣兵传奇.jar",
+    "logo": "./javaGameLogo/雇佣兵传奇.png"
+  },
+  {
+    "name": "霸王的大陆(自建武将)bt.jar",
+    "logo": null
+  },
+  {
+    "name": "飘渺仙途-星辰剑.jar",
+    "logo": "./javaGameLogo/飘渺仙途-星辰剑.png"
+  },
+  {
+    "name": "飘灵-火焰传承者.jar",
+    "logo": "./javaGameLogo/飘灵-火焰传承者.png"
+  },
+  {
+    "name": "香帅传奇之桃花岛主.jar",
+    "logo": null
+  },
+  {
+    "name": "鬼吹灯.jar",
+    "logo": "./javaGameLogo/鬼吹灯.png"
+  },
+  {
+    "name": "鬼影迷踪.jar",
+    "logo": "./javaGameLogo/鬼影迷踪.png"
+  },
+  {
+    "name": "鬼泣V-恶魔右手(修).jar",
+    "logo": "./javaGameLogo/鬼泣V-恶魔右手(修).png"
+  },
+  {
+    "name": "鬼泣猎人-征途.jar",
+    "logo": "./javaGameLogo/鬼泣猎人-征途.png"
+  },
+  {
+    "name": "魂斗罗3代.jar",
+    "logo": "./javaGameLogo/魂斗罗3代.png"
+  },
+  {
+    "name": "魔神傲世录.jar",
+    "logo": "./javaGameLogo/魔神傲世录.png"
+  },
+  {
+    "name": "魔镜奇缘-楚汉悲歌.jar",
+    "logo": "./javaGameLogo/魔镜奇缘-楚汉悲歌.png"
+  },
+  {
+    "name": "鲁宾逊漂流记-海难生存.jar",
+    "logo": "./javaGameLogo/鲁宾逊漂流记-海难生存.png"
+  },
+  {
+    "name": "鼎盛三国-蜀国争霸.jar",
+    "logo": "./javaGameLogo/鼎盛三国-蜀国争霸.png"
+  }
+]
